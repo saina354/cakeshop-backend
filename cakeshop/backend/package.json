@@ -4,7 +4,7 @@
   "description": "Cake & Pastry Shop Backend - Zomato Style",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node cakeshop/backend/server.js",
     "dev": "nodemon server.js",
     "seed": "node config/seed.js"
   },
